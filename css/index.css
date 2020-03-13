@@ -144,3 +144,135 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+.lambda{
+position: relative;
+right:582px;
+}
+
+#Navbar{
+    display:flex;
+    position: relative;
+    left:25%;
+}
+#Navtop{
+    margin-left:10px;
+    display:flex;
+    position: relative;
+    align-items: center;
+    width:650px;
+    left:230px;
+   
+}
+#Navtop a{
+    margin-left:65px;
+    color:black;
+    text-decoration:none ;
+    display: flex;
+    padding:10px 0 0;
+    
+    
+    
+}
+.space{
+    position: relative;
+    left:29%;
+}
+#Navtop2{
+    
+    padding-top:.5%;
+    width:20%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+#Navtop2 a{
+    color:black;
+    text-decoration:none ;
+    display: flex;
+    padding:10px 0 0;
+    margin-left: 40px;
+}
+#Navbar2{
+    display:flex;
+    padding:10px 30%;
+    position: relative;
+    width:900px;
+    right:230px;
+  
+}
+.parentboxrow{
+ display: flex;
+ flex-flow: wrap;
+ justify-content: space-evenly;
+}
+.boxrow{
+    width:50%;
+    justify-content: space-between;
+    padding-bottom:3%;
+
+}
+#body2{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#secondrow{
+    display: flex;
+    flex-direction: column;
+}
+.work{
+    padding:5%;
+}
+hr{
+    border-style: dotted;
+}
+.more{
+    font-size:15px;
+    border:1px solid black;
+    background-color:rgba(252, 241, 232, 0.993);
+    border-radius:10px;
+    text-align:center;
+    padding:5px;
+    width:95px;
+    
+}
+.more:hover{
+    background-color:lightgray;
+
+}
+.txt{
+    display: flex;
+    margin:0 5% 20px;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+#box1{
+   background-color:teal ; 
+}
+#box2{
+    background-color:gold ; 
+ }
+#box3{
+    background-color:cadetblue ; 
+ }
+#box4{
+    background-color:coral ; 
+ }
+#box5{
+    background-color:crimson ; 
+ }
+#box6{
+    background-color:forestgreen ; 
+ }
+#box7{
+    background-color:darkorchid ; 
+ }
+#box8{
+    background-color:hotpink ; 
+ }
+#box9{
+    background-color: indigo; 
+ }
+#box10{
+    background-color:dodgerblue ; 
+ }
